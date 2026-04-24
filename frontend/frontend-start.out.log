@@ -1,0 +1,12 @@
+
+> frontend@0.0.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+
+  [32m[1mVITE[22m v4.3.9[39m  [2mready in [0m[1m872[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.26.50.208:[1m5173[22m/[39m
+[2m3:46:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/Pages/Login.jsx[22m
+[2m3:46:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/login.css[22m
+[2m3:51:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/AdminNavbar.jsx[22m
